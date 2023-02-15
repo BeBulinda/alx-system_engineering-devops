@@ -3,6 +3,8 @@ Create a srcipt that creates an alias.
 Name: ls
 Value: rm *
 
-# 
-1. Hello you
-Crate a script that print "hello user", where user is the current Linux user.
+# 1. Hello you
+Create a script that print "hello user", where user is the current Linux user.
+
+# 2. The path to success is to take massive, determined action 
+Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program.
